@@ -1,4 +1,4 @@
-##### Debug with containers
+#### Debug with containers
 ###### # `docker-compose -f single-peer-ca.yaml up`
 #### Start the container
 ###### # `docker-compose -f single-peer-ca.yaml start`
